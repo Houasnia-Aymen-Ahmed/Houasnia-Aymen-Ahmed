@@ -13,6 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Houasnia-Aymen-Ahmed&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Houasnia-Aymen-Ahmed&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![GitHub Stats](https://raw.githubusercontent.com/Houasnia-Aymen-Ahmed/github-stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/Houasnia-Aymen-Ahmed/github-stats/master/generated/languages.svg)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
